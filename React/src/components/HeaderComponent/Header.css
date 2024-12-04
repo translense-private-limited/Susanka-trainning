@@ -1,0 +1,13 @@
+.HeaderHeading {
+  font-size: 75px;
+  font-weight: bold;
+  background: linear-gradient(to right, rgb(220, 23, 220), rgb(27, 27, 177));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.p {
+  color: aliceblue;
+  font-size: 25px;
+}
