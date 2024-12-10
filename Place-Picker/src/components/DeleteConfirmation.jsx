@@ -11,7 +11,6 @@ export default function DeleteConfirmation({ onConfirm, onCancel }) {
     return () => {
       clearInterval(interval);
     };
-  }, []);
 
   useEffect(() => {
     const timer = setTimeout(() => {
